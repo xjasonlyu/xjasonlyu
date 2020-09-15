@@ -5,16 +5,15 @@
 
 ### var ID = rand(0, 1) ? 12x : xjasonlyu 🔒
 
-<br>
-
-🌍 Personal Website: [12x.me](https://12x.me)
-
-- Fan of movies & TV shows
-- Love Japanese food
-- Write Go Python C/C++
-- Just coding for fun
-- Digital Immigrants
-- To be continue... <@_@>
+- 🌎 Personal Website: [12x.me](https://12x.me)
+- 📺 Fan of movies & TV shows
+- 🍣 Love Japanese food
+- 🐈 Love kittens/cats
+- 💻 Write Go Python C/C++
+- 🙊 Just coding for fun
+- 🌌 Digital Immigrants
+- 🤫 Gallifreyan, live on Earth
+- 🌚 To be continue... <@_@>
   
 </td>
 <td>
