@@ -3,7 +3,7 @@
 <tr>
 <td>
 
-### var ID = rand(0, 1) ? 12x : xjasonlyu 🔒
+### var ID = rand(0, 1) ? 12x : xjasonlyu
 
 - 🌎 Personal Website: [12x.me](https://12x.me)
 - 📺 Fan of movies & TV shows
