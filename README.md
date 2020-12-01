@@ -12,14 +12,14 @@
 - 💻 Write Go Python C/C++
 - 🙊 Just coding for fun
 - 🌌 Digital Immigrants
-- 🤫 Gallifreyan, live on Earth
+- 🤫 Gallifreyan, living on Earth
 - 🌚 To be continue... <@_@>
   
 </td>
 <td>
   <img src="https://github-readme-stats.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjasonlyu&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjasonlyu&layout=compact&hide=html" />
 </td>
 </tr>
 </tbody>
