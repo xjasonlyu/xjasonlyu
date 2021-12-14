@@ -1,6 +1,6 @@
 ## Hi, I'm Jason Lyu
 
-A network enthusiast, code for fun 
+A network enthusiast, Code for fun.
 
 - [My Toys](https://github.com/xjasonlyu?tab=repositories)
 - [About Me](https://12x.me/about/)
