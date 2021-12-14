@@ -1,41 +1,8 @@
-<table>
-<tbody>
-<tr>
-<td>
+## Hi, I'm Jason Lyu
 
-### var ID = rand(0, 1) ? 12x : xjasonlyu
+A network enthusiast, code for fun 
 
-- 🌎 Personal Website: [12x.me](https://12x.me)
-- 📺 Fan of movies & TV shows
-- 🍣 Love Japanese food
-- 🐈 Love kittens/cats
-- 💻 Write Go Python C/C++
-- 🙊 Just coding for fun
-- 🌌 Digital Immigrants
-- 🤫 Gallifreyan, living on Earth
-- 🌚 To be continue... <@_@>
-  
-</td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xjasonlyu&layout=compact&hide=html" />
-</td>
-</tr>
-</tbody>
-</table>
+- [My Toys](https://github.com/xjasonlyu?tab=repositories)
+- [About Me](https://12x.me/about/)
 
-<!--
-**xjasonlyu/xjasonlyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![status](https://github-readme-stats.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true)
