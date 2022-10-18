@@ -9,7 +9,7 @@ A network enthusiast who codes for fun.
 
 Also available at:
 
-- [LinkedIn](https://www.linkedin.com/in/zhexuan-lyu-91b182214/)
+- [Telegram](https://t.me/xjasonlyu)
 - [Twitter](https://twitter.com/xjasonlyu)
 
 <!-- Tech stack:
