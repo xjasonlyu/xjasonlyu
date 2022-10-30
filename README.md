@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" width="480px">
 
-A network enthusiast who codes for fun.
+An open-source developer who codes for fun.
 
 - Spend a lot of time on [my toys](https://github.com/xjasonlyu?tab=repositories)
 - [About me](https://12x.me/about/)
