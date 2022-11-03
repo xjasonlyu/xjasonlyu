@@ -4,7 +4,7 @@
 
 An open-source developer who codes for fun.
 
-- Spend a lot of time on [my toys](https://github.com/xjasonlyu?tab=repositories)
+- Spend a lot of time on [my gadgets](https://github.com/xjasonlyu?tab=repositories)
 - [About me](https://12x.me/about/)
 
 Also available at:
