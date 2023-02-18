@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 12 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: xjasonlyu
+          template: classic
+          base: header
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_languages: yes
+          plugin_languages_details: lines, percentage
+          plugin_languages_limit: 4
+          plugin_languages_analysis_timeout: 15
+          plugin_notable: yes
