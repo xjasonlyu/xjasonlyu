@@ -4,10 +4,11 @@
 
 An open-source developer who codes for fun.
 
-- [My gadgets](https://github.com/xjasonlyu?tab=repositories)
-- [About me](https://12x.me/about/)
+- 💻 Previous Software R&D Intern @ Microsoft
+- 🎓 Incoming CAS MEng Student @ McMaster
+- 🌐 Find out more about me at my [Homepage](https://12x.me/)
 
 Also available at:
 
-- [Telegram](https://t.me/xjasonlyu)
-- [Twitter](https://twitter.com/xjasonlyu)
+- 📧 [Email](mailto:xjasonlyu@gmail.com)
+- 📱 [Twitter](https://twitter.com/xjasonlyu)
