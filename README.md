@@ -11,4 +11,4 @@ An open-source developer who codes for fun.
 Also available at:
 
 - 📧 [Email](mailto:xjasonlyu@gmail.com)
-- 📱 [Twitter](https://twitter.com/xjasonlyu)
+- 🛜 [Twitter](https://twitter.com/xjasonlyu)
