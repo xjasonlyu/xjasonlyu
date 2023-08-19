@@ -18,7 +18,7 @@
 
 An open-source developer who codes for fun.
 
-- 🏫 Incoming CAS MEng Student @ McMaster
+- 🏫 Full-time CAS MEng Student @ McMaster
 - 👨🏻‍💻 Previous Software R&D Intern @ Microsoft
 - 🌐 Find out more about me at my [Homepage](https://12x.me/)
 
