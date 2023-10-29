@@ -1,0 +1,25 @@
+name: Update stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 * * * *"
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download stats
+        run: |
+          curl -v -o ./default.svg     -fsSL "https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default"
+          curl -v -o ./github_dark.svg -fsSL "https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark"
+      - name: Upload stats
+        run: |
+          git config --global user.name  'xjasonlyu'
+          git config --global user.email 'xjasonlyu@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}
+
+          git checkout stats
+          git rm -rf .
+          git add *.svg
+          git commit -m "update to version \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push -f -u origin stats || echo "nothing to commit"
