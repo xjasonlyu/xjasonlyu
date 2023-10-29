@@ -23,8 +23,8 @@ jobs:
           git config --global user.email 'xjasonlyu@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}
 
-          mkdir -p ./images/
-          mv *.svg ./images/
+          mkdir -p ./stats/
+          mv *.svg ./stats/
 
-          git add images/*.svg
+          git add stats/*.svg
           git commit -m "Update github-readme-stats to \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push origin main || echo "nothing to commit"

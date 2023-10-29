@@ -3,10 +3,10 @@
 <a href="#stats" align="right">
   <picture>
     <source
-      srcset="./images/github_dark.svg" media="(prefers-color-scheme: dark)"
+      srcset="./stats/github_dark.svg" media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="./images/default.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="./stats/default.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img align="right" alt="stats" width="480px"/>
   </picture>
