@@ -1,4 +1,4 @@
-name: Update stats
+name: GitHub README Stats
 
 on:
   workflow_dispatch:
@@ -6,24 +6,25 @@ on:
     - cron: "23 * * * *"
 
 jobs:
-  update_stats:
+  github_readme_stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Download stats
+      - name: Download github readme stats
         run: |
           curl -v -o ./default.svg     -fsSL "https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=default"
           curl -v -o ./github_dark.svg -fsSL "https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark"
 
-      - name: Upload stats
+      - name: Upload github readme stats
         run: |
           git config --global user.name  'xjasonlyu'
           git config --global user.email 'xjasonlyu@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}
 
-          git checkout stats
-          git rm -rf .
-          git add *.svg
-          git commit -m "update to version \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push -f -u origin stats || echo "nothing to commit"
+          mkdir -p ./images/
+          mv *.svg ./images/
+
+          git add images/*.svg
+          git commit -m "Update github-stats: \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push origin main || echo "nothing to commit"
