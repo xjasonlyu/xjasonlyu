@@ -2,6 +2,18 @@
 
 <a href="#stats" align="right">
   <picture>
+    <source
+      srcset="./images/github_dark.svg" media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="./images/default.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img align="right" alt="stats" width="480px"/>
+  </picture>
+</a>
+
+<!-- <a href="#stats" align="right">
+  <picture>
     <source 
       srcset="https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
@@ -12,7 +24,7 @@
     />
     <img align="right" alt="stats" width="480px"/>
   </picture>
-</a>
+</a> -->
 
 <!-- <img align="right" src="https://github-readme-stats-x.vercel.app/api?username=xjasonlyu&show_icons=true&count_private=true&hide_border=true&include_all_commits=true" alt="stats" width="480px"> -->
 

@@ -27,4 +27,4 @@ jobs:
           mv *.svg ./images/
 
           git add images/*.svg
-          git commit -m "Update github-stats: \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push origin main || echo "nothing to commit"
+          git commit -m "Update github-readme-stats to \`$(date -u '+%Y.%-m%d.%-H%M.%-S')\`" && git push origin main || echo "nothing to commit"
