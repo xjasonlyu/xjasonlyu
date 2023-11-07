@@ -30,10 +30,13 @@
 
 An open-source developer who codes for fun.
 
+- 🧑🏻‍💻 Open to 2024 Summer CO-OP / Internship
+  - SWE/SDE, based in Ontario, Canada
 - 🏫 Full-time CAS MEng Student @ McMaster
-- 👨🏻‍💻 Previous SWE Intern @ Microsoft & EMQ
+- 💻 Previous SWE Intern @ Microsoft & EMQ
 - 🌐 Find out more about me at my [Homepage](https://12x.me/)
 
-Also available at:
+How to reach me:
 
-- 📧 [Email](mailto:xjasonlyu@gmail.com)
+- 🐙 GitHub: [xjasonlyu](https://github.com/xjasonlyu)
+- 📧 Email: [xjasonlyu@gmail.com](mailto:xjasonlyu@gmail.com)
