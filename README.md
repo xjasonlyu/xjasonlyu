@@ -35,7 +35,7 @@ An open-source developer who codes for fun.
 - 🏫 Full-time CAS MEng Student @ McMaster
 - 💻 Previous SWE Intern @ Microsoft & EMQ
 - 🧑🏻‍💻 Coding is my passion and part of my life
-- 🌐 Find out more about me at my [Homepage](https://12x.me/)
+- 🌐 Find out more about me at my [Homepage](https://xjasonlyu.dev)
 
 <!--
 
