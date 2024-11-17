@@ -30,7 +30,7 @@
 
 An open-source developer who codes for fun.
 
-- 😎 Open to 2025 Winter Co-op / New Grad
+- 🍁 Looking for 2025 New Grad Positions
   - SWE/SDE, based in Ontario, Canada
 - 🏫 Full-time CAS MEng Student @ McMaster
 - 💻 Previous SWE Intern @ Microsoft & EMQ
