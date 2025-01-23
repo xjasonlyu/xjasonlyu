@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jason Lyu's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4056, Total Commits  : 9593, Total PRs: 339, Total Issues: 60, Contributed to (last year): 15</desc>
+        <desc id="descId">Total Stars Earned: 4058, Total Commits  : 9594, Total PRs: 339, Total Issues: 60, Contributed to (last year): 15</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 6.404181217363197;
+        stroke-dashoffset: 6.403646963627027;
       }
     }
   
