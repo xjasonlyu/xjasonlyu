@@ -32,7 +32,7 @@ An open-source developer who codes for fun.
 
 - 🍁 Looking for 2025 New Grad Positions
   - SWE/SDE, based in Ontario, Canada
-- 🏫 Full-time CAS MEng Student @ McMaster
+- 🏫 Previous CAS MEng Student @ McMaster
 - 💻 Previous SWE Intern @ Microsoft & EMQ
 - 🧑🏻‍💻 Coding is my passion and part of my life
 - 🌐 Find out more about me at my [Homepage](https://xjasonlyu.dev)
