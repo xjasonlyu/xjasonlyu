@@ -30,7 +30,7 @@
 
 An open-source developer who codes for fun.
 
-- 🍁 SDE @rtkwlf, based in Ontario, Canada
+- ~~🍁 SDE @rtkwlf, based in Ontario, Canada~~
 - 🏫 Previous CAS MEng Student @ McMaster
 - 💻 Previous SWE Intern @ Microsoft & EMQ
 - 🧑🏻‍💻 Coding is my passion and part of my life
