@@ -30,9 +30,9 @@
 
 An open-source developer who codes for fun.
 
-- ~~🍁 SDE @rtkwlf, based in Ontario, Canada~~
+- 🍁 Looking for SDE roles based in Canada
 - 🏫 Previous CAS MEng Student @ McMaster
-- 💻 Previous SWE Intern @ Microsoft & EMQ
+- 💻 Previous SWE @ rtkwlf & Microsoft & EMQ
 - 🧑🏻‍💻 Coding is my passion and part of my life
 - 🌐 Find out more about me at my [Homepage](https://xjasonlyu.dev)
 
