@@ -20,15 +20,11 @@
 
 Here are a few quick things about me:
 
-- 🎓 MEng in Computing & Software @ McMaster
+- 🎓 MEng in Computing & Software @ [McMaster][1]
 - 🧑🏻‍💻 Software Engineer — Backend & Full Stack
 - 💙 Open-source software & Coding is my passion
 - 🎮 Spent 1,000+ hours playing Pokémon games
-- 📫 Feel free to [email me](mailto:xjasonlyu@gmail.com) if you'd like to connect!
+- 📫 Feel free to [email me][2] if you'd like to connect!
 
-<!--
-How to reach me:
-
-- 🐙 GitHub: [xjasonlyu](https://github.com/xjasonlyu)
-- 📧 Email: <xjasonlyu@gmail.com>
--->
+[1]: https://www.mcmaster.ca/
+[2]: mailto:xjasonlyu@gmail.com
